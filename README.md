@@ -17,7 +17,7 @@
 > 3. check if the servers are running: kubectl get po,svc
 
 <p align="center" >
-  <img src="/Images/servers.png" alt="drawing" style="width:700px;"/>
+  <img src="/images/servers.png" alt="drawing" style="width:700px;"/>
 </p>
 
 #### And then to deploy the applications using nginx:
