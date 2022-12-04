@@ -7,7 +7,7 @@
 
 #### We created an ingress that directs the traffic to the ynet and bitcoin applications we built in homework 3 and 4 using kubernetes and nginx.
 
-#### First thing I had to do was to dockerize the ynet and bitcoin applications I built in hw3 and hw4 and push the images to docker hub:
+#### First thing I had to do was to dockerize the ynet and bitcoin applications push the images to docker hub:
 
 <p align="center" >
   <img src="/images/dockerhub.png" alt="drawing" style="width:700px;"/>
