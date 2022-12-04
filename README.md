@@ -5,9 +5,9 @@
   <img src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo-768x432.png" alt="drawing" style="width:300px;"/>
 </p>
 
-### We created an ingress that directs the traffic to the ynet and bitcoin applications we built in homework 3 and 4 using kubernetes and nginx.
+#### We created an ingress that directs the traffic to the ynet and bitcoin applications we built in homework 3 and 4 using kubernetes and nginx.
 
-### First thing I had to do was to dockerize the ynet and bitcoin applications I built in hw3 and hw4 and push the images to docker hub:
+#### First thing I had to do was to dockerize the ynet and bitcoin applications I built in hw3 and hw4 and push the images to docker hub:
 
 <p align="center" >
   <img src="/images/dockerhub.png" alt="drawing" style="width:700px;"/>
@@ -40,7 +40,7 @@
 
 
 
-### And we should be able to access the applications in localhost/ynet and localhost/bitcoin.
+### And finally we should be able to open the applications using the URLs: localhost/ynet and localhost/bitcoin.
 
 <p align="center" >
   <img src="/images/bitcoin.png" alt="drawing" style="width:700px;"/>
