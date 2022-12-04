@@ -17,7 +17,7 @@
 > 3. check if the servers are running: kubectl get po,svc
 
 <p align="center" >
-  <img src="/Images/newshtml.png" alt="drawing" style="width:700px;"/>
+  <img src="/Images/servers.png" alt="drawing" style="width:700px;"/>
 </p>
 
 #### And then to deploy the applications using nginx:
@@ -29,24 +29,24 @@
 > 3. minikube tunnel
 
 <p align="center" >
-  <img src="/Images/newshtml.png" alt="drawing" style="width:700px;"/>
+  <img src="/Images/minikube.png" alt="drawing" style="width:700px;"/>
 </p>
 
 
 #### First thing I dockerized the ynet and bitcoin applications I built in hw3 and hw4 and pushed the images to docker hub 
 
 <p align="center" >
-  <img src="/Images/newshtml.png" alt="drawing" style="width:700px;"/>
+  <img src="/Images/dockerhub.png" alt="drawing" style="width:700px;"/>
 </p>
 
 
 #### And we should be able to access the applications in localhost/ynet and localhost/bitcoin
 
 <p align="center" >
-  <img src="/Images/newshtml.png" alt="drawing" style="width:700px;"/>
+  <img src="/Images/bitcoin.png" alt="drawing" style="width:700px;"/>
 </p>
 
 <p align="center" >
-  <img src="/Images/newshtml.png" alt="drawing" style="width:700px;"/>
+  <img src="/Images/ynet.png" alt="drawing" style="width:700px;"/>
 </p>
 
